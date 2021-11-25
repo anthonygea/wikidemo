@@ -5,3 +5,5 @@ Demo 2021 Git Wiki
 - Koceila
 - Nikola
 - Anthony
+
+Nous sommes le 25/11/2021
