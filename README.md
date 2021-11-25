@@ -4,3 +4,4 @@ Demo 2021 Git Wiki
 - Jeremy
 - Koceila
 - Nikola
+- Anthony
